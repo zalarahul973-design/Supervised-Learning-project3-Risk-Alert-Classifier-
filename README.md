@@ -6,7 +6,7 @@ PROJECT TITLE:
 
 🔍 GIF LINK  
 =====check your link=====
-gif.gif
+C:\Users\hp\Desktop\Supervised Learning\rahul\gif.gif
 🎯 Objectives
 The main objectives of this project are:
 •	Load and understand the dataset 
@@ -176,7 +176,9 @@ Accuracy	98.80%
 Precision	96.30%
 Recall	93.69%
 F1 Score	94.98%
-The model correctly classified most customers but produced both False Positive and False Negative predictions. 
+The model correctly classified most customers but produced both False Positive and False Negative predictions. .
+<img width="844" height="711" alt="image" src="https://github.com/user-attachments/assets/13c542eb-4ace-48d5-a40b-e7305f19d4ec" />
+
  
 ________________________________________
 🔴 Q12 - Confusion Matrix
@@ -202,6 +204,7 @@ True Positive  (TP): 104
 Errors
 Type-I Error  = False Positive = 4
 Type-II Error = False Negative = 7
+
 The notebook identifies False Negative cases as particularly important because they represent high-risk customers incorrectly classified as low-risk. 
 ________________________________________
 📊 Q13 - Class Distribution
@@ -220,6 +223,8 @@ Visualization
 A bar chart is created to visualize:
 Low Risk (0)
 High Risk (1)
+<img width="906" height="828" alt="image" src="https://github.com/user-attachments/assets/09a985d2-15bf-4521-9051-570aa4c9a244" />
+
  
 ________________________________________
 ⚖️ Q14 - Sampling Techniques
@@ -493,7 +498,8 @@ ROC Curve plots:
 False Positive Rate
         vs
 True Positive Rate
- 
+ <img width="940" height="744" alt="image" src="https://github.com/user-attachments/assets/3fa6c8e1-d3ad-4a20-846e-f209dc28d686" />
+
 The ROC curve helps compare the classification ability of the models across different probability thresholds. 
 ________________________________________
 📐 Q24 - AUC ROC Comparison
@@ -563,7 +569,8 @@ The project also generates:
 •	Business interpretation 
 •	Class imbalance analysis 
 •	Performance bar chart 
-•	 
+•	 <img width="940" height="560" alt="image" src="https://github.com/user-attachments/assets/f3be5474-0f3d-4056-9f17-8eeb546b3751" />
+
 The evaluation table is saved as:
 final_model_evaluation.csv
 ________________________________________
