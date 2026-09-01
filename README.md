@@ -1,9 +1,5 @@
 <img width="1000" height="760" alt="gif" src="https://github.com/user-attachments/assets/93d062e3-2f20-46f3-b375-2213acfb8cea" />
 
-<img width="1000" height="760" alt="gif" src="https://github.com/user-attachments/assets/7e1d582d-1335-4b8a-874c-3032c37c93aa" />
-
-
-<img width="1000" height="760" alt="gif" src="https://github.com/user-attachments/assets/1282ba39-1296-4b9e-ab60-b3ce2b3a429d" />
 
 PROJECT TITLE:
         
