@@ -1,3 +1,7 @@
+         <img width="1000" height="760" alt="gif" src="https://github.com/user-attachments/assets/35362f54-aa2a-478e-a907-83f7f9a5c589" />
+
+
+
 PROJECT TITLE:
         
                          Risk Alert Classifier 
